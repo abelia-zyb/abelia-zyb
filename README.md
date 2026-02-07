@@ -11,11 +11,10 @@
 ### 📈 学習進捗｜大学2年生向け
 | 学習分野                | 進捗状況 |
 |-------------------------|----------|
-| 中級財務会計            | ![中級財務会計](https://progressed.io/bar/75?title=進行中) |
-| 税法（企業所得税/増値税）| ![税法](https://progressed.io/bar/60?title=勉強中) |
+| CPA（中国公認会計士）| ![CPA](https://progressed.io/bar/40?title=準備中) |
+| ACCA（海外公認会計士）| ![ACCA](https://progressed.io/bar/0?title=未着手) |
 | 初級会計検定 備考       | ![初級会計検定](https://progressed.io/bar/80?title=最終調整) |
-| Pythonデータ分析（Pandas）| ![Python](https://progressed.io/bar/45?title=実践中) |
-| SQLデータベース 入門    | ![SQL](https://progressed.io/bar/30?title=入門中) |
+| Python| ![Python](https://progressed.io/bar/45?title=実践中) |
 | Web開発（HTML/CSS）| ![Web](https://progressed.io/bar/20?title=基礎学習) |
 
 ### 🎬 アニメおすすめリスト
