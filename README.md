@@ -11,11 +11,12 @@
 ### 📈 学習進捗｜大学2年生向け
 | 学習分野                | 進捗状況 |
 |-------------------------|----------|
-| CPA（中国公認会計士）| ![CPA](https://progressed.io/bar/40?title=準備中) |
-| ACCA（海外公認会計士）| ![ACCA](https://progressed.io/bar/0?title=未着手) |
-| 初級会計検定 備考       | ![初級会計検定](https://progressed.io/bar/80?title=最終調整) |
-| Python| ![Python](https://progressed.io/bar/45?title=実践中) |
-| Web開発（HTML/CSS）| ![Web](https://progressed.io/bar/20?title=基礎学習) |
+| CPA（中国公認会計士）| ![CPA](https://github-readme-progressbar.vercel.app/api/progressbar/?title=準備中&value=40&width=150&color=2E8B57&bgcolor=E0E0E0) |
+| ACCA（海外公認会計士）| ![ACCA](https://github-readme-progressbar.vercel.app/api/progressbar/?title=未着手&value=0&width=150&color=FF6347&bgcolor=E0E0E0) |
+| 初級会計検定 備考       | ![初級会計検定](https://github-readme-progressbar.vercel.app/api/progressbar/?title=最終調整&value=80&width=150&color=4169E1&bgcolor=E0E0E0) |
+| Python| ![Python](https://github-readme-progressbar.vercel.app/api/progressbar/?title=実践中&value=45&width=150&color=FFD700&bgcolor=E0E0E0) |
+| Web開発（HTML/CSS）| ![Web](https://github-readme-progressbar.vercel.app/api/progressbar/?title=基礎学習&value=20&width=150&color=9370DB&bgcolor=E0E0E0) |
+
 
 ### 🎬 アニメおすすめリスト
 - 🎸 **ぼっち・ざ・ろっく！（孤独摇滚！）**
