@@ -5,7 +5,7 @@
 
 ### 🎯 自己紹介バッジ
 [![アニメ好き](https://img.shields.io/badge/アニメ好き-FF69B4?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/)
-[![会計学生](https://img.shields.io/badge/会計学生-2E8B57?style=for-the-badge&logo=google-sheets&logoColor=white)]([https://www.jicpa.or.jp/](https://www.cicpa.org.cn/))
+[![会計学生](https://img.shields.io/badge/会計学生-2E8B57?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.cicpa.org.cn/)
 [![IT初心者](https://img.shields.io/badge/IT初心者-1E90FF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### 📈 学習進捗｜大学2年生向け
